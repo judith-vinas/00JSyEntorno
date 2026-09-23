@@ -51,7 +51,7 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    nombre
    ```
 
-![alt text](<Captura de pantalla 2026-09-23 a las 18.09.48.png>)
+![alt text](<Captura de pantalla 2026-09-23 a las 18.09.48 19.52.35.png>)
 
 ## Parte 3: Tu primer archivo HTML + JavaScript
 
@@ -90,10 +90,12 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
    document.body.innerHTML = "<h1>¡Hola, " + nombre + "!</h1>";
    ```
 
-![alt text](<Captura de pantalla 2026-09-23 a las 18.27.05.png>)
+![alt text](<Captura de pantalla 2026-09-23 a las 18.27.05 19.52.42.png>)
 
 - Publica tu proyecto en el repositorio de GitHub y usa GitHub Pages para alojarlo. Sigue [esta guía](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) para hacerlo.
 
+![alt text](<Captura de pantalla 2026-09-23 a las 19.06.15.png>)
+![alt text](<Captura de pantalla 2026-09-23 a las 19.07.31.png>)
 
 ## parte 5: formulario HTML + JavaScript
 1. Crea un archivo llamado `formulario.html` en la misma carpeta `00JSyEntorno`.
