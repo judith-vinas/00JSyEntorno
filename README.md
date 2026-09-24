@@ -58,10 +58,10 @@ JavaScript (JS) es un lenguaje de programación interpretado, ligero y multiplat
 1. Crea una carpeta llamada `00JSyEntorno` dentro de tu espacio de trabajo.
 2. Dentro de esa carpeta, crea un archivo llamado `hola.html`.
 
-https://judith-vinas.github.io/00JSyEntorno/hola.html
+[Enlace al archivo hola:](hola.html)
 
 
-3. Escribe el siguiente código en `hola.html`:
+1. Escribe el siguiente código en `hola.html`:
    ```html
    <!DOCTYPE html>
    <html lang="es">
@@ -78,8 +78,8 @@ https://judith-vinas.github.io/00JSyEntorno/hola.html
    </body>
    </html>
    ```
-4. Desde VSCode abre el archivo `hola.html` en tu navegador.
-5. Observa el resultado en la consola del navegador.
+2. Desde VSCode abre el archivo `hola.html` en tu navegador.
+3. Observa el resultado en la consola del navegador.
   
 ![alt text](<Captura de pantalla 2026-09-23 a las 18.12.40.png>)
 
@@ -107,7 +107,7 @@ https://judith-vinas.github.io/00JSyEntorno/
 ## parte 5: formulario HTML + JavaScript
 1. Crea un archivo llamado `formulario.html` en la misma carpeta `00JSyEntorno`.
 
-https://judith-vinas.github.io/00JSyEntorno/formulario.html
+[Enlace a formulario:](formulario.html)
 
 2. Crea un archivo llamado `formulario.js` en la misma carpeta `00JSyEntorno`.
 3. Escribe el siguiente código en `formulario.html`:
